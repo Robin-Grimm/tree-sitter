@@ -1,4 +1,11 @@
-name: Bug Report
+        tree-sitter generate
+        ```
+    validations:
+      required: true
+
+  - type: textarea
+    attributes:
+      label: "Expected behavior"name: Bug Report
 description: Report a problem
 type: Bug
 body:
