@@ -10,7 +10,7 @@ Tree-sitter is a parser generator tool and an incremental parsing library. It ca
 - **Fast** enough to parse on every keystroke in a text editor
 - **Robust** enough to provide useful results even in the presence of syntax errors
 - **Dependency-free** so that the runtime library (which is written in pure C) can be embedded in any application
-
+0
 ## Links
 - [Documentation](https://tree-sitter.github.io)
 - [Rust binding](lib/binding_rust/README.md)
